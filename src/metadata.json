@@ -1,0 +1,6 @@
+{
+  "name": "九宫格图片切割软件",
+  "description": "本地运行的图片九宫格切割工具，支持一键切割并导出ZIP",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
